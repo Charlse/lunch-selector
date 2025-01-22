@@ -18,4 +18,4 @@
 
 ## 在线访问
 
-访问 GitHub Pages 链接：[午餐选择器](https://你的用户名.github.io/lunch-selector/)
+访问 GitHub Pages 链接：[午餐选择器](https://charlse.github.io/lunch-selector/)
